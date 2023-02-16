@@ -32,7 +32,7 @@ Tensorflow keras API
 ## Use Cases of your project
 Calculating body density is a very difficult job, not accessible to everyone, in a society which is trying its best to assess itself and take necessary actions to improve its lifestyle.
 This app helps to find the body density and in turn the fat %age easily by taking 8 inputs of different body measurements
-This can also be used as a personal fitness app which can track the fat percentage with time 
+This can also be used as a personal fitness app which can track the fat percentage with time. 
 
 ## Team Members
 Jyotikrishna Behera
